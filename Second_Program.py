@@ -1,5 +1,5 @@
 order_status = "Complete order"
-print(order_status.replace("Complete","Completed"))
+print(order_status.replace("Complete","Completed on"))
 
 order_df = "1,2,3,4,5,6"
 order_newdf = order_df.split(",")
